@@ -1,0 +1,10 @@
+/home/solashi/solana/solana-nft/program/target/sbf-solana-solana/release/deps/spl_token_metadata_interface-2404bf5b88831f6c.so: /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/solashi/solana/solana-nft/program/target/sbf-solana-solana/release/deps/libspl_token_metadata_interface-2404bf5b88831f6c.rlib: /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/solashi/solana/solana-nft/program/target/sbf-solana-solana/release/deps/spl_token_metadata_interface-2404bf5b88831f6c.d: /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs /home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs
+
+/home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/lib.rs:
+/home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/error.rs:
+/home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/instruction.rs:
+/home/solashi/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-metadata-interface-0.2.0/src/state.rs:
