@@ -54,9 +54,9 @@ pub fn mint(
 
 	csl_spl_token::src::cpi::initialize_mint_2(
 		for_initialize_mint_2,
-		Default::default(),
-		Pubkey::default(),
-		Some(Pubkey::default()),
+		0,
+		*wallet.key,
+		None,
 	)?;
 
 	csl_spl_assoc_token::src::cpi::create(
@@ -65,13 +65,13 @@ pub fn mint(
 
 	csl_spl_token::src::cpi::mint_to(
 		for_mint_to,
-		Default::default(),
+		1,
 	)?;
 
 	csl_spl_token::src::cpi::set_authority(
 		for_set_authority,
-		Default::default(),
-		Some(Pubkey::default()),
+		0,
+		None,
 	)?;
 
     Ok(())

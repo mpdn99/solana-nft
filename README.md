@@ -11,6 +11,16 @@ Build project:
 cargo build-sbf
 ```
 
+Setting config file
+```sh
+solana config set --url devnet
+```
+
+If you do not have devnet token:
+```sh
+solana airdrop 1
+```
+
 Deploy program:
 ```sh
 solana program deploy target/deploy/nft.so 

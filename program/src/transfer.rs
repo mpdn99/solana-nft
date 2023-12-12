@@ -46,8 +46,8 @@ pub fn transfer(
 
 	csl_spl_token::src::cpi::transfer_checked(
 		for_transfer_checked,
-		Default::default(),
-		Default::default(),
+		1,
+		0,
 	)?;
 
     Ok(())
