@@ -3,7 +3,7 @@
 Submem is NFT for membership subscription developing with 3 level subscription
 
 ## Purpose
-Now a days, many website, blog use membership subscription to receive donations from users, visitor. However, managing these subscriptions on the server side is susceptible to risks when the owner or hacker can interfere with the system. So instead of subscription information being kept by the manager, they will be held by the user themselves.
+Now a days, many website, blog use membership subscription to receive donations from users, visitor. However, managing these subscriptions on the server side is susceptible to risks when the owner or hacker can interfere with the system. So instead of subscription information being kept by the manager, they will be held by the user themselves. Submem is membership nft where user hold in their wallet.
 
 ## How to use
 Build project:
